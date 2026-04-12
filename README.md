@@ -1,16 +1,40 @@
-## Hi there 👋
+# Systems & Infrastructure Engineer
 
-<!--
-**2KBencher/2KBencher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught systems engineer focused on multi-boot systems, OS internals, and hardware compatibility engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux system administration
+- EFI / UEFI boot systems
+- OpenCore bootloader
+- Multi-OS environments (Windows / Linux / macOS)
+- AMD Hackintosh compatibility testing
+- System debugging & troubleshooting
+
+---
+
+## Projects
+
+### Multi-OS Systems Lab
+Design and implementation of triple-boot systems using GPT/EFI and OpenCore.
+
+### AMD Hackintosh Matrix
+Compatibility testing of macOS across multiple AMD Ryzen systems and GPUs.
+
+---
+
+## Focus Areas
+
+- Operating system internals
+- Boot process engineering
+- Hardware/software compatibility
+- System recovery and debugging
+
+---
+
+## Open To
+- Systems Engineering roles
+- DevOps / Infrastructure positions
+- Platform Engineering
