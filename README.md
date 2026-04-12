@@ -38,3 +38,7 @@ Compatibility testing of macOS across multiple AMD Ryzen systems and GPUs.
 - Systems Engineering roles
 - DevOps / Infrastructure positions
 - Platform Engineering
+
+## Open Source Contributions
+
+- FlightlessSomething (multiple releases: v1.0.5, v1.1, v1.5)
