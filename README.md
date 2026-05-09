@@ -20,8 +20,8 @@ Self-taught systems engineer focused on multi-boot systems, OS internals, and ha
 ### Multi-OS Systems Lab
 Design and implementation of triple-boot systems using GPT/EFI and OpenCore.
 
-### AMD Hackintosh Matrix
-Compatibility testing of macOS across multiple AMD Ryzen systems and GPUs.
+### Hackintosh Matrix
+Compatibility testing of macOS across multiple AMD Ryzen / Intel systems and GPUs.
 
 ---
 
